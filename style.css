@@ -1,0 +1,6 @@
+body { font-family: Tahoma, Arial, sans-serif; background: #eef2f7; margin: 0; padding: 20px; }
+.card { max-width: 480px; margin: 30px auto; background: #fff; border-radius: 12px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,.15); }
+h1 { text-align: center; color: #1f4e79; }
+table { width: 100%; border-collapse: collapse; }
+th, td { padding: 10px; border-bottom: 1px solid #ddd; text-align: right; }
+th { color: #1f4e79; width: 40%; }
